@@ -8,13 +8,6 @@ This is a web application for video conferencing, built with React, Material UI,
 2. Run `npm install` in the root directory to install all dependencies.
 3. Run `npm start` to start the application.
 
-## Usage
-
-1. Once the application is running, you will be redirected to the homepage.
-2. Click on the "Create Room" button to create a new video call room. You will be redirected to a new page with a unique room ID.
-3. Share the room ID with other users you want to connect with.
-4. On the main page, click on the "Join Room" button and enter the unique room ID to join a room.
-5. Once connected, you will be able to see and hear the other users in the room, as well as use the messaging feature to communicate.
 
 ## Features
 
