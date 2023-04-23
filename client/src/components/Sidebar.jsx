@@ -163,7 +163,7 @@ const Sidebar = ({ children }) => {
               </Grid>
               <Grid item xs={12} md={6} className={classes.padding}>
                 <Typography gutterBottom variant="h6">
-                  Send A Message
+                  Room Info
                 </Typography>
                 <TextField
                   label="Enter Chat Room"
@@ -180,7 +180,7 @@ const Sidebar = ({ children }) => {
                   onClick={joinRoom}
                   className={classes.margin}
                 >
-                  Message
+               Join Chat Room
                 </Button>
               </Grid>
             </Grid>
